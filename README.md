@@ -24,8 +24,8 @@
 
 1. 克隆仓库：
     ```sh
-    git clone https://github.com/Zlkcyber/despeedBot.git
-    cd despeedBot
+    git clone https://github.com/0xbaiwan/despeed_bot
+    cd despeed_bot
     ```
 
 2. 安装所需依赖：
